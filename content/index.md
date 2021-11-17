@@ -22,4 +22,7 @@ studera till webbprogrammerare.
 Jag är 30 år gammal och bor med min sambo i sumpan. Tycker om träning
 och discgolf.
 
+Övrigt så tycker jag klättring är roligt. Det svåraste jag har klarat
+av är 7a+. Det var en utmaning :-)
+
 ![test](assets/img/jag.jpg)
