@@ -1,0 +1,22 @@
+
+/* header */
+
+.header,
+.site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    border: solid $border 3px;
+}
+
+.nav a {
+    color: #fff;
+    font-size: 2em;
+    text-decoration: none;
+}
+
+.title p {
+    font-style: verdana;
+}

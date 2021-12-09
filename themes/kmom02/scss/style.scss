@@ -1,0 +1,15 @@
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
+
+
+/*interna moduler*/
+@import 'blockquotes';
+@import 'code';
+@import 'footer';
+@import 'typography';
+@import 'header';
+@import 'body';
+
+* {
+    color: #fff;
+}

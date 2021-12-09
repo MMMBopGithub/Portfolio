@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
+
+.google {
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+p {
+    font-size: 100%;
+}
+
+.google p {
+    margin: 5%;
+    background-color: $bakgrund-andra;
+}
+
+.teknik p {
+    font-size: 150%;
+    margin: 5%;
+    background-color: $bakgrund-andra;
+}
